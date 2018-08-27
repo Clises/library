@@ -1,6 +1,7 @@
 1. 什么是 flex布局?
 flex 是flexible box 缩写，即"弹性布局"，为盒状模型提供灵活性。
 块状元素、行内元素都可以使用 flex 布局；webkit 内核的浏览器需要加上-webkit 前缀。
+
 2. 基本概念
 flex 布局的元素，称为 flex 容器，其所有子元素自动称为容器。
 ![容器](image/flex%20布局.png)
@@ -9,14 +10,14 @@ flex 布局的元素，称为 flex 容器，其所有子元素自动称为容器
 
 3. 容器的属性
 容器的属性共有6个：
-    flex-direction  
-    flex-wrap   
-    flex-flow   
-    justify-content 
-    align-items 
-    align-content   
+    flex-direction
+    flex-wrap
+    flex-flow
+    justify-content
+    align-items
+    align-content
 3.1 flex-direction
-决定主轴方向（即项目的排列方向）  
+决定主轴方向（即项目的排列方向）
 
 ```
 .box {
@@ -29,7 +30,7 @@ flex 布局的元素，称为 flex 容器，其所有子元素自动称为容器
 - row-reverse：主轴为水平方向，起点在右端。
 - column：主轴为垂直方向，起点在上沿。
 - column-reverse：主轴为垂直方向，起点在下沿。
-3.2 flex-wrap   
+3.2 flex-wrap
 默认情况下，项目都排在一条线（又称"轴线"）上。flex-wrap属性定义，如果一条轴线排不下，如何换行。
 ```
 .box{
@@ -71,7 +72,7 @@ justify-content属性定义了项目在主轴上的对齐方式。
 - space-around：每个项目两侧的间隔相等。所以，项目之间的间隔比项目与边框的间隔大一倍。
 
 
-3.5 align-items 
+3.5 align-items
 align-items属性定义项目在交叉轴上如何对齐。
 ```
 .box {
@@ -88,14 +89,14 @@ align-items属性定义项目在交叉轴上如何对齐。
 
 
 
-3.6 align-content属性 
+3.6 align-content属性
 align-content属性定义了多根轴线的对齐方式。如果项目只有一根轴线，该属性不起作用。
 ```
 .box {
   align-content: flex-start | flex-end | center | space-between | space-around | stretch;
 
 ```
-属性值:    
+属性值:
 - flex-start：与交叉轴的起点对齐。
 - flex-end：与交叉轴的终点对齐。
 - center：与交叉轴的中点对齐。
@@ -175,5 +176,3 @@ align-self属性允许单个项目有与其他项目不一样的对齐方式，�
 }
 ```
 该属性可能取6个值，除了auto，其他都与align-items属性完全一致。
-
-
