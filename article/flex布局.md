@@ -16,6 +16,7 @@ flex 布局的元素，称为 flex 容器，其所有子元素自动称为容器
     justify-content
     align-items
     align-content
+
 3.1 flex-direction
 决定主轴方向（即项目的排列方向）
 
@@ -30,6 +31,7 @@ flex 布局的元素，称为 flex 容器，其所有子元素自动称为容器
 - row-reverse：主轴为水平方向，起点在右端。
 - column：主轴为垂直方向，起点在上沿。
 - column-reverse：主轴为垂直方向，起点在下沿。
+
 3.2 flex-wrap
 默认情况下，项目都排在一条线（又称"轴线"）上。flex-wrap属性定义，如果一条轴线排不下，如何换行。
 ```
@@ -96,7 +98,7 @@ align-content属性定义了多根轴线的对齐方式。如果项目只有一�
   align-content: flex-start | flex-end | center | space-between | space-around | stretch;
 
 ```
-属性值:
+属性值: 
 - flex-start：与交叉轴的起点对齐。
 - flex-end：与交叉轴的终点对齐。
 - center：与交叉轴的中点对齐。
@@ -168,6 +170,7 @@ flex属性是flex-grow, flex-shrink 和 flex-basis的简写，默认值为0 1 au
 建议优先使用这个属性，而不是单独写三个分离的属性，因为浏览器会推算相关值。
 
 4.6 align-self属性
+
 align-self属性允许单个项目有与其他项目不一样的对齐方式，可覆盖align-items属性。默认值为auto，表示继承父元素的align-items属性，如果没有父元素，则等同于stretch。
 
 ```

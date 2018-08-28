@@ -6,3 +6,6 @@
 <a href="javascript:(screen.width>=768)?window.open('https://nba.hupu.com/'):window.location.href='https://www.baidu.com/'" class="case-item"> 
 
 ```
+
+3. js new机制
+
