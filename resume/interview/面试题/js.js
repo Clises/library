@@ -31,11 +31,9 @@ var obj = new f1()
 console.log(obj.x)
 // console.log(f1())
 
+
 /*字符串反转*/
 let str='123456'
 str=str.split("").reverse().join("")
 console.log(str)
 
-
-
-/**/

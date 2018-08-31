@@ -1,10 +1,10 @@
-#什么是http
+# 什么是http
 http 即超文本传输协议，是一种用于分布式、协作式、和超媒体信息系统的应用层协议，是万维网的数据通信的基础；设计其最初目的是为了提供一种发布和接收HTML页面的方法。通过HTTP或者HTTPS协议请求的资源由统一资源标识符（Uniform Resource Identifiers，URI）来标识。
 
-#理解http协议
+# 理解http协议
 http 协议是TCP/IP协议栈/族中"应用层"的一个协议，用于在S(服务器)和C(B)(客户端)之间传递超文本内容,(如HTML、js、css、音视频等),其默认端口是80
 
-#一个完整的 web 访问过程（http 协议访问过程）
+# 一个完整的 web 访问过程（http 协议访问过程）
 1、客户端用户在浏览器中输入某个url，形如http://www.baidu.com
 2、客户端操作系统做地址解析，dns解析。获得目标服务器的ip地址
 3、客户端操作系统打开一个自由端口，向服务器发起连接请求
@@ -19,8 +19,8 @@ http 协议是TCP/IP协议栈/族中"应用层"的一个协议，用于在S(服�
 
 
 
-#URL 详解
-##完整格式
+# URL 详解
+## 完整格式
   scheme://host[:port#]/path/.../[?query-string][#anchor]
 ##各参数详解:
 scheme:方案名/模式名，指定以哪种协议从服务器获取指定资源；方案名不区分大小写，常见方案：HTTP HTTPS FTP MAILTO RTSP FILE NEWS等
@@ -46,13 +46,13 @@ FRAG:片段，也称为ANCHO（锚点）、TAG（标签）指一个资源中某�
 使用，通过#与其它部分分割
 http://www.xiaoshuo.com/XiYouJi.html#chapeter8
 
-##与 ULI URN 关系
+## 与 ULI URN 关系
 URI:统一资源标志符 包含URL和URN,意思就是确定 URL 的位置,通俗点说就指定网站 ip
 URL：统一资源定位符 http://www.baidu.com
 URN:统一资源命名符 mailto:admin@tarena.com
 
 
-#HTTP协议详解
+# HTTP协议详解
   HTTP通信
 请求与响应原理：
 Message:消息/报文,是在HTTP客户端与服务器之间传递的数据块 将是将4k 的数据块进行拆分

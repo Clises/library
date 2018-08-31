@@ -1,3 +1,5 @@
+
+
 1. 什么是 flex布局?
 flex 是flexible box 缩写，即"弹性布局"，为盒状模型提供灵活性。
 块状元素、行内元素都可以使用 flex 布局；webkit 内核的浏览器需要加上-webkit 前缀。
@@ -98,7 +100,7 @@ align-content属性定义了多根轴线的对齐方式。如果项目只有一�
   align-content: flex-start | flex-end | center | space-between | space-around | stretch;
 
 ```
-属性值: 
+属性值:
 - flex-start：与交叉轴的起点对齐。
 - flex-end：与交叉轴的终点对齐。
 - center：与交叉轴的中点对齐。
@@ -146,9 +148,6 @@ flex-shrink属性定义了项目的缩小比例，默认为1，即如果空间�
 
 
 4.4 flex-basis属性
-flex-basis属性定义了在分配多余空间之前，项目占据的主轴空间（main size）。浏览器根据这个属性，计算主轴是否有多余空间。它的默认值为auto，即项目的本来大小。
-
-```
 .item {
   flex-basis: <length> | auto; /* default auto */
 }
