@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8764f683-88e0-4b2b-8bd7-a956d7c2a7cb" name="Default" comment="" />
+    <list default="true" id="8764f683-88e0-4b2b-8bd7-a956d7c2a7cb" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/资源/plusx.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -13,7 +16,17 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="plusx.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/资源/plusx.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="77" selection-start-line="2" selection-start-column="77" selection-end-line="2" selection-end-column="77" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -54,6 +67,7 @@
         <option value="$PROJECT_DIR$/article/基于hexo搭建个人博客.md" />
         <option value="$PROJECT_DIR$/js/JS中的call、apply、bind方法详解.md" />
         <option value="$PROJECT_DIR$/tools/tools.md" />
+        <option value="$PROJECT_DIR$/资源/plusx.md" />
       </list>
     </option>
   </component>
@@ -93,7 +107,7 @@
             <path>
               <item name="library" type="b2602c69:ProjectViewProjectNode" />
               <item name="library" type="462c0819:PsiDirectoryNode" />
-              <item name="常用插件" type="462c0819:PsiDirectoryNode" />
+              <item name="资源" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -175,15 +189,16 @@
       <workItem from="1535427871637" duration="5250000" />
       <workItem from="1535451979448" duration="9030000" />
       <workItem from="1535611949517" duration="2188000" />
-      <workItem from="1535681891152" duration="1581000" />
+      <workItem from="1535681891152" duration="1698000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43697000" />
+    <option name="totallyTimeSpent" value="43814000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27561557" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -230,7 +245,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/lib/理论/笔试经典题.md" />
     <entry file="file://$PROJECT_DIR$/resume/笔试经典题.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -587,6 +601,13 @@
             <caret line="90" column="47" selection-start-line="90" selection-start-column="47" selection-end-line="90" selection-end-column="47" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/资源/plusx.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="77" selection-start-line="2" selection-start-column="77" selection-end-line="2" selection-end-column="77" />
         </state>
       </provider>
     </entry>
