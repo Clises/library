@@ -1,56 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8764f683-88e0-4b2b-8bd7-a956d7c2a7cb" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/article/flex布局.md" beforeDir="false" afterPath="$PROJECT_DIR$/article/flex布局.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/article/js 中的 this.md" beforeDir="false" afterPath="$PROJECT_DIR$/article/js 中的 this.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/article/js 中的闭包.md" beforeDir="false" afterPath="$PROJECT_DIR$/article/js 中的闭包.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/article/基于hexo搭建个人博客.md" beforeDir="false" afterPath="$PROJECT_DIR$/article/基于hexo搭建个人博客.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/article/快速理解 http.md" beforeDir="false" afterPath="$PROJECT_DIR$/article/快速理解 http.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resume/interview/jianrongxing/IE6/3xiangsuBUG.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resume/interview/jianrongxing/IE6/IE6shuangbianju.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resume/interview/jianrongxing/IE6/min-width/min-width.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resume/interview/jianrongxing/IE6/min-width/min-width2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resume/interview/jianrongxing/IE8/PIE-2.0beta1/PIE.htc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resume/interview/jianrongxing/IE8/PIE-2.0beta1/PIE.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resume/interview/jianrongxing/IE8/PIE-2.0beta1/PIE_IE678.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resume/interview/jianrongxing/IE8/PIE-2.0beta1/PIE_IE678_uncompressed.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resume/interview/jianrongxing/IE8/PIE-2.0beta1/PIE_IE9.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resume/interview/jianrongxing/IE8/PIE-2.0beta1/PIE_IE9_uncompressed.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resume/interview/jianrongxing/IE8/PIE-2.0beta1/PIE_uncompressed.htc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resume/interview/jianrongxing/IE8/PIE.htc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resume/interview/jianrongxing/IE8/select.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resume/interview/jianrongxing/IE8/yuanjiaozhichi.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resume/interview/jianrongxing/clearfloat/clearfloat.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resume/interview/jianrongxing/clearfloat/问题代码.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resume/interview/jianrongxing/picturefill/WLAN.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resume/interview/jianrongxing/picturefill/picturefill.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resume/interview/jianrongxing/picturefill/test.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resume/interview/jianrongxing/picturefill/thread_181276573111243_20180208155751_s_160751_o_h_1250px_w_1000px581940483.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resume/interview/jianrongxing/picturefill/金色磨砂.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resume/interview/jianrongxing/rgba.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resume/interview/jianrongxing/text-align.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resume/interview/regular/test.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resume/interview/test.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resume/interview/undefined、null、NaN/NaN.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resume/interview/undefined、null、NaN/null.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resume/interview/undefined、null、NaN/undefined.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resume/interview/函数对象的遍历.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resume/interview/阻止默认事件.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resume/interview/面试题/23获取页面中所有的checkbox.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resume/interview/面试题/24js设置div.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resume/interview/面试题/26undefined.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resume/interview/面试题/62、动态显示图片信息/img/1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resume/interview/面试题/62、动态显示图片信息/img/2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resume/interview/面试题/62、动态显示图片信息/img/3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resume/interview/面试题/62、动态显示图片信息/另一种方法.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resume/interview/面试题/62、动态显示图片信息/面试题做法.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resume/interview/面试题/js/js.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resume/interview/面试题/字符串反转大牛做法.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tools/tools.md" beforeDir="false" afterPath="$PROJECT_DIR$/tools/tools.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/资源/vue/vue.md" beforeDir="false" afterPath="$PROJECT_DIR$/资源/vue/vue.md" afterDir="false" />
-    </list>
+    <list default="true" id="8764f683-88e0-4b2b-8bd7-a956d7c2a7cb" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
